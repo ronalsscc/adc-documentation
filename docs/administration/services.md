@@ -17,6 +17,7 @@ Un servicio es un ítem intangible que cubre las necesidades del cliente. Un ser
 - [`Sub-servicios relacionados`](./subService) *(Obligatorio)*: Cada sub-servicio relacionado tiene un porcentaje de participación. Esto con la finalidad de poder distribuir porcentualmente el valor entre cada uno cuando se realice una adquisición.
 - `Tarifas relacionadas` *(Opcional)*
 
+
 ### Validaciones
 
 - Un servicio tiene que tener relacionado obligatoriamente al menos un sub-servicio
