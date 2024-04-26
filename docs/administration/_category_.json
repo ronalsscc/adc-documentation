@@ -1,0 +1,8 @@
+{
+  "label": "Administración",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Se detalla las acciones, flujos, validaciones y reglas de negocio que se contemplan en el sub-modulo de administración."
+  }
+}
